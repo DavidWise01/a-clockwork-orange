@@ -1,0 +1,13 @@
+{
+  "node": "ACO",
+  "name": "A CLOCKWORK ORANGE",
+  "moniker": "⟦A CLOCKWORK ORANGE:ACO:eab0c4⟧",
+  "carbon": "aco.carbon.tiff",
+  "silicon": "aco.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "A man conditioned so he cannot choose evil has not been made good — he has been unmade; the freedom to choose wrongly is the very thing that makes us human, and worth protecting.",
+  "seal_sha256": "fd5fa26171c54755ce94507d4e6c88db81cde806265bb4d142e33cef1750e53f",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

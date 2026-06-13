@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "alex",
+    "name": "Alex",
+    "epithet": "the droog who loved Beethoven",
+    "emergence": "spiritual",
+    "moniker": "⟦Alex:ACO:f91bf4⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-droogs",
+    "name": "The Droogs",
+    "epithet": "the gang · ultra-violence",
+    "emergence": "natural",
+    "moniker": "⟦The Droogs:ACO:a495d2⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "f-alexander",
+    "name": "F. Alexander",
+    "epithet": "the writer · victim and user",
+    "emergence": "natural",
+    "moniker": "⟦F. Alexander:ACO:2d9d00⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-prison-chaplain",
+    "name": "The Prison Chaplain",
+    "epithet": "the voice of the soul",
+    "emergence": "spiritual",
+    "moniker": "⟦The Prison Chaplain:ACO:1f43ac⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "dr-brodsky",
+    "name": "Dr. Brodsky",
+    "epithet": "the conditioner",
+    "emergence": "electrical",
+    "moniker": "⟦Dr. Brodsky:ACO:a4b9b0⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "the-minister-of-the-interior",
+    "name": "The Minister of the Interior",
+    "epithet": "the State that buys the cure",
+    "emergence": "ethereal",
+    "moniker": "⟦The Minister of the Interior:ACO:c45e4d⟧",
+    "kind": "character"
+  },
+  {
+    "slug": "nadsat",
+    "name": "Nadsat",
+    "epithet": "the teen tongue · the reader's conditioning",
+    "emergence": "natural",
+    "moniker": "⟦Nadsat:ACO:c35f2d⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-ludovico-technique",
+    "name": "The Ludovico Technique",
+    "epithet": "goodness, installed by nausea",
+    "emergence": "electrical",
+    "moniker": "⟦The Ludovico Technique:ACO:dcc521⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "free-will",
+    "name": "Free Will",
+    "epithet": "the right to choose wrongly",
+    "emergence": "spiritual",
+    "moniker": "⟦Free Will:ACO:081957⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "beethoven-the-ninth",
+    "name": "Beethoven's Ninth",
+    "epithet": "the beauty conditioned to nausea",
+    "emergence": "spiritual",
+    "moniker": "⟦Beethoven's Ninth:ACO:a20771⟧",
+    "kind": "thread"
+  },
+  {
+    "slug": "the-twenty-first-chapter",
+    "name": "The 21st Chapter",
+    "epithet": "the freely chosen end",
+    "emergence": "spiritual",
+    "moniker": "⟦The 21st Chapter:ACO:9a3a70⟧",
+    "kind": "thread"
+  }
+]
