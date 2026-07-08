@@ -9,5 +9,12 @@
   "seal": "A man conditioned so he cannot choose evil has not been made good — he has been unmade; the freedom to choose wrongly is the very thing that makes us human, and worth protecting.",
   "seal_sha256": "fd5fa26171c54755ce94507d4e6c88db81cde806265bb4d142e33cef1750e53f",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 673,
+    "prev": "0017d8fb76c54fb37b57534ba2005d39c45d513c024a6e2b6a8bbffa7a267156",
+    "link": "8c015b0695c026b939b81f129b8583d4dd976656e4efb50d01ef46764e9875f2",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
